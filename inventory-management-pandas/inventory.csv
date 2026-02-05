@@ -9,3 +9,20 @@ Staten Island,pest_control,insect killer,74,12.99
 Staten Island,pest_control,weed killer,8,23.99
 Staten Island,planter,20 inch terracotta planter,0,17.99
 Staten Island,planter,8 inch plastic planter,53,3.99
+
+Brooklyn,seeds,basil,32,5.99
+Brooklyn,seeds,pepper,67,11.49
+Brooklyn,garden tools,hand trowel,12,9.99
+Brooklyn,planter,12 inch ceramic planter,6,24.99
+Brooklyn,pest_control,ant spray,19,7.49
+
+Queens,seeds,lavender,41,8.99
+Queens,garden tools,pruning shears,9,14.99
+Queens,planter,round concrete planter,3,34.99
+Queens,pest_control,slug pellets,22,10.49
+Queens,seeds,cucumber,58,6.49
+
+Staten Island,seeds,rose,27,15.99
+Staten Island,planter,hanging basket,14,12.49
+Staten Island,garden tools,watering can,18,11.99
+Staten Island,pest_control,mole repellent,5,19.99
